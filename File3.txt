@@ -1,0 +1,4 @@
+hello im file 3 and im adding some content here for the file 3 to work on git 
+
+
+thank you
